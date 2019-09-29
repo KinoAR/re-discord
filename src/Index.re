@@ -2,7 +2,7 @@
 
 open Discord;
 open Js.Promise;
-let token = "NTM3MDk1NzMxNTQzMjc3NTY4.Dzcrjw.VnyTD27MuFeQRI85dCKRrEHa4sc";
+let token = "";
 let botName = "ReasonBot";
 let client = Client.make();
 let login =

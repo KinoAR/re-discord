@@ -5,7 +5,7 @@ var DiscordJs = require("discord.js");
 
 ((require('isomorphic-fetch')));
 
-var token = "NTM3MDk1NzMxNTQzMjc3NTY4.Dzcrjw.VnyTD27MuFeQRI85dCKRrEHa4sc";
+var token = "";
 
 var botName = "ReasonBot";
 
