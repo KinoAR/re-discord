@@ -22,7 +22,7 @@
     "discord.js": "^11.5.1",
     "discord.js-commando": "^0.10.0",
     "isomorphic-fetch": "^2.2.1",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "node-opus": "^0.3.2",
     "sodium": "^3.0.2",
     "uws": "^100.0.1"
